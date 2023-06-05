@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/blog.iml" filepath="$PROJECT_DIR$/.idea/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.2.2/concurrent-ruby-1.2.2.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/concurrent-ruby-1.2.2/concurrent-ruby-1.2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/concurrent-ruby-1.2.2/concurrent-ruby-1.2.21.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/concurrent-ruby-1.2.2/concurrent-ruby-1.2.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/eventmachine-1.2.7.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/eventmachine-1.2.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/eventmachine-1.2.71.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/eventmachine-1.2.71.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/http_parser.rb-0.8.0.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/http_parser.rb-0.8.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/http_parser.rb-0.8.01.iml" filepath="$PROJECT_DIR$/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/http_parser.rb-0.8.01.iml" />
+    </modules>
+  </component>
+</project>
