@@ -1,0 +1,23 @@
+---
+title: "Read books"
+layout: post
+date: 2023-08-25 09:16
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- books
+category: blog
+author: alvaro
+description: Read Books
+---
+
+## Books
+
+* Spring in Action
+  * Book about how to use Spring from scratch
+  * https://www.manning.com/books/spring-in-action-fifth-edition
+  * Finish: 2023-08-25
+* Quantum Computing in Action
+  * Explain the main concepts about quantum computing with Java examples. You can get all the examples in the next [github repository] (https://github.com/johanvos/quantumjava)
+  * https://www.manning.com/books/quantum-computing-in-action?a_aid=quantumjava&a_bid=e5166ab9
+  * Finish: 2023-08-01
