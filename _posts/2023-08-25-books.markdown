@@ -13,11 +13,9 @@ description: Read Books
 
 ## Books
 
-* Spring in Action
+* [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition)
   * Book about how to use Spring from scratch
-  * https://www.manning.com/books/spring-in-action-fifth-edition
   * Finish: 2023-08-25
-* Quantum Computing in Action
-  * Explain the main concepts about quantum computing with Java examples. You can get all the examples in the next [github repository] (https://github.com/johanvos/quantumjava)
-  * https://www.manning.com/books/quantum-computing-in-action?a_aid=quantumjava&a_bid=e5166ab9
+* [Quantum Computing in Action](https://www.manning.com/books/quantum-computing-in-action?a_aid=quantumjava&a_bid=e5166ab9)
+  * Explain the main concepts of quantum computing with Java examples. You can get all the examples in the next [github repository](https://github.com/johanvos/quantumjava)
   * Finish: 2023-08-01
